@@ -1,1 +1,11 @@
-A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+# Dart OOP Assignment
+
+## Topics Covered:
+- Classes & Objects
+- Constructors
+- Inheritance
+- Method Overriding
+- Abstraction
+
+## How to Run:
+dart run dart_assignment.dart
